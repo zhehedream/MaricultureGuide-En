@@ -26,7 +26,7 @@ Tropical_fish_bucket: Ordinary species
 
 ## Sea Rhyme Cookie (Can get special blocks after eating)
 
-![img](https://raw.githubusercontent.com/zhehedream/MaricultureGuide-en/master/bread.jpg)
+![img](https://raw.githubusercontent.com/zhehedream/MaricultureGuide-en/master/cookie2.jpg)
 
 ## Quantum Cod Sandwich (Will transfer you to Fish_Island_Dimension after eating)
 
